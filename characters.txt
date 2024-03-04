@@ -8,4 +8,4 @@ Thomas "Tom" Buchanan
 
 A new change.
 
-A very simpe change.
+A very simple change.
